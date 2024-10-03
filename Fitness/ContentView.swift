@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  Fitness
-//
-//  Created by Mac on 03/10/2024.
-//
-
 import SwiftUI
 
 struct ContentView: View {

@@ -1,10 +1,3 @@
-//
-//  FitnessUITests.swift
-//  FitnessUITests
-//
-//  Created by Mac on 03/10/2024.
-//
-
 import XCTest
 
 final class FitnessUITests: XCTestCase {

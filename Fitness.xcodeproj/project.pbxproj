@@ -94,6 +94,9 @@
 		04FCB5862CAE9B22008908E2 /* Fitness */ = {
 			isa = PBXGroup;
 			children = (
+				04FCB5B32CAE9B3A008908E2 /* View */,
+				04FCB5B22CAE9B31008908E2 /* ViewModel */,
+				04FCB5B12CAE9B2B008908E2 /* Model */,
 				04FCB5872CAE9B22008908E2 /* FitnessApp.swift */,
 				04FCB5892CAE9B22008908E2 /* ContentView.swift */,
 				04FCB58B2CAE9B24008908E2 /* Assets.xcassets */,
@@ -125,6 +128,27 @@
 				04FCB5A42CAE9B25008908E2 /* FitnessUITestsLaunchTests.swift */,
 			);
 			path = FitnessUITests;
+			sourceTree = "<group>";
+		};
+		04FCB5B12CAE9B2B008908E2 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		04FCB5B22CAE9B31008908E2 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		04FCB5B32CAE9B3A008908E2 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

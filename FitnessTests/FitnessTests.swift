@@ -1,10 +1,3 @@
-//
-//  FitnessTests.swift
-//  FitnessTests
-//
-//  Created by Mac on 03/10/2024.
-//
-
 import XCTest
 @testable import Fitness
 
